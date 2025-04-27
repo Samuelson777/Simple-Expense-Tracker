@@ -20,3 +20,6 @@ You can view the live demo of the app at [Simple Expense Tracker](https://samuel
 - **Display Expenses**: Show a list of all expenses with options to edit or delete each entry.
 - **Total Calculation**: Calculate and display the total amount spent.
 - **Responsive Design**: Ensure the app looks good on both desktop and mobile devices.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Simple-Expense-Tracker/blob/main/LICENSE) file for details.
